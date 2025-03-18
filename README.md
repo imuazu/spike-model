@@ -119,9 +119,9 @@
  @article{muazu2023spike,
    title={Towards Robust Diabetes Prediction: Leveraging Spike-Based Meta-Learning and Minimum Entropy for Improved Performance Over Traditional Machine Learning Models},
    author={Muazu, Isah and Etikan, İlker and Al-Turjman, Fadi},
-   journal={TBD},
-   year={2023},
-   publisher={TBD}
+   journal={Scientific Report (in press)},
+   year={202_...},
+   publisher={springer}
  }
  ```
 
